@@ -1,6 +1,6 @@
 [submodule "wlc"]
    path = lib/wlc
-   url = git://github.com/Cloudef/wlc.git
+   url = git@github.com:joe9/wlc.git
    branch = master
 [submodule "inihck"]
    path = lib/inihck
