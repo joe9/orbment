@@ -10,6 +10,8 @@ Orbment is modular compositor for Wayland with flexible plugin architecture wher
 The core consist of small code base which provide plugin management, and hooks api for plugins.
 Core plugins are used to provide functionality you would expect from bare bones tiling window manager.
 
+THIS IS A FORK OF cloudef/orbment USING joe9/wlc and skb TO SUPPORT STICKY KEYS
+
 OPTIONS
 -------
 
